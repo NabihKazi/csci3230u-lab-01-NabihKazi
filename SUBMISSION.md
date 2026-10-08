@@ -17,4 +17,4 @@ git clone - I would use it to clone repositories onto my laptop so I can work on
 
 ## Evidence (links)
 
-- Merged pull request: https://github.com/NabihKazi/csci3230u-lab-01-NabihKazi/pull/2
+Merged pull request: https://github.com/NabihKazi/csci3230u-lab-01-NabihKazi/pull/2
